@@ -4,4 +4,3 @@ Hey everyone! My name is Sam Cooper, and I am frome Newburyport, Massachusetts. 
 ![IMG_0283](https://user-images.githubusercontent.com/89928018/132037423-95d8654a-9627-48f8-a90b-342b6b1a08c5.jpg)
 
 
-![IMG_0283](https://user-images.githubusercontent.com/89928018/132035715-faa6e61a-777f-4d74-a7ea-6e658fbbdf8f.jpg)
