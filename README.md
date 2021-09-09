@@ -4,4 +4,5 @@ Hey everyone! My name is Sam Cooper, and I am frome Newburyport, Massachusetts. 
 ![IMG_0283](https://user-images.githubusercontent.com/89928018/132037423-95d8654a-9627-48f8-a90b-342b6b1a08c5.jpg)
 
 [Path Between Homes Script](https://github.com/sjcooper01/wicked_problems/blob/master/Code%20%231)
+
 [Path Between Homes Image](https://github.com/sjcooper01/wicked_problems/blob/master/Rplot.png)
