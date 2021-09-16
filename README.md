@@ -5,6 +5,7 @@ Hey everyone! My name is Sam Cooper, and I am frome Newburyport, Massachusetts. 
 
 
 ##Informal Responses
+
 [Data 100 Path Between Homes Script](https://github.com/sjcooper01/wicked_problems/blob/master/Code%20%231)
 
 [Data 100 Path Between Homes Final](https://github.com/sjcooper01/wicked_problems/blob/master/Rplot.png)
