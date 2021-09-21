@@ -12,7 +12,7 @@ Informal Responses
 
 [Rosling Questions](https://github.com/sjcooper01/wicked_problems/blob/master/rosling.md)
 
-[Blumenstock Extra Credit](https://github.com/sjcooper01/wicked_problems/blob/master/Blumenstock%20Extra%20Credit)
+[Blumenstock Extra Credit](https://github.com/sjcooper01/wicked_problems/blob/master/Blumenstockextracredit.md)
 
 Formal Responses
 
