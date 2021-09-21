@@ -14,6 +14,8 @@ Informal Responses
 
 [Blumenstock Extra Credit](https://github.com/sjcooper01/wicked_problems/blob/master/Blumenstockextracredit.md)
 
+[Podcast #1 Questions](https://github.com/sjcooper01/wicked_problems/blob/master/Podcastquestions.md)
+
 Formal Responses
 
 [Annotated Bibliography](https://github.com/sjcooper01/wicked_problems/commit/58be99b3331fe106136d777b0747b49c6ce45b1b)
