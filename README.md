@@ -16,6 +16,8 @@ Informal Responses
 
 [Podcast #1 Questions](https://github.com/sjcooper01/wicked_problems/blob/master/Podcastquestions.md)
 
+[September 23rd Response](https://github.com/sjcooper01/wicked_problems/blob/master/Informal-Sep23.md)
+
 Formal Responses
 
 [Annotated Bibliography](https://github.com/sjcooper01/wicked_problems/commit/58be99b3331fe106136d777b0747b49c6ce45b1b)
