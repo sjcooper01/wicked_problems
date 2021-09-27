@@ -21,3 +21,6 @@ Informal Responses
 Formal Responses
 
 [Annotated Bibliography](https://github.com/sjcooper01/wicked_problems/commit/58be99b3331fe106136d777b0747b49c6ce45b1b)
+
+
+[Ann](https://docs.google.com/document/d/16u108QEf5PSwUILnAGwRTHo0jky-ssm69YOA9qg_QQA/edit)
