@@ -24,6 +24,8 @@ Informal Responses
 
 [September 30th Image](https://github.com/sjcooper01/wicked_problems/blob/master/Screen%20Shot%202021-09-30%20at%209.58.12%20AM.png)
 
+[October 7th Response](https://github.com/sjcooper01/wicked_problems/blob/master/Oct7essay.md)
+
 Formal Responses
 
 [Annotated Bibliography](https://github.com/sjcooper01/wicked_problems/blob/master/Annotated%20Bib.pdf)
