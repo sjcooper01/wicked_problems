@@ -1,4 +1,4 @@
-**10/12 Essay: Read this press article on the Belt and Road Initiative (BRI), a Chinese global infrastructure development plan. What are your thoughts, or more saliently, what questions do you have or what would you want to know/learn more about? What responsibilities do you think the international community should have on such matters? You have until 10:10.
+10/12 Essay: Read this press article on the Belt and Road Initiative (BRI), a Chinese global infrastructure development plan. What are your thoughts, or more saliently, what questions do you have or what would you want to know/learn more about? What responsibilities do you think the international community should have on such matters? You have until 10:10.
 
 After reading this article, my first initial realization is that they used AidData from students right here at the College of William and Mary! I found this fact really interesting that the Wall Street Journal, a credible and highly respected news source, cited findings from students right here at our college!
   
