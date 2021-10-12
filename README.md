@@ -28,6 +28,8 @@ Informal Responses
 
 [October 13th Response](https://github.com/sjcooper01/wicked_problems/blob/master/1013informal.md)
 
+[Dan Runfola Questions](https://github.com/sjcooper01/wicked_problems/blob/master/dan.md)
+
 Formal Responses
 
 [Annotated Bibliography](https://github.com/sjcooper01/wicked_problems/blob/master/Annotated%20Bib.pdf)
