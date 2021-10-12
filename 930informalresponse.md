@@ -1,4 +1,4 @@
-9/30 essay: Go to the Gapminder data site (founded by Hans Rosling). The x and y axes can be changed with the little arrows. The year can be changed with the slider at the bottom. You can even have the plot play through time. Each bubble represents a nation and can be selected and deselected in the right panel. There's a two minute "How to" video at the top as well.
+**9/30 essay: Go to the Gapminder data site (founded by Hans Rosling). The x and y axes can be changed with the little arrows. The year can be changed with the slider at the bottom. You can even have the plot play through time. Each bubble represents a nation and can be selected and deselected in the right panel. There's a two minute "How to" video at the top as well.**
 
 Pick at least one configuration (life expectancy vs income in the UK and Cuba over the past 80 years, for example). Try any combination(s) you like (no wrong answers here). Write what data you are displaying. Write about what you see or what surprises you, if anything. As best you can, connect what you see to ideas in previous readings from Rosling, West, Sen, another course, or from your experience. You have until 10:15.
 
