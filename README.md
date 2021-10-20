@@ -34,4 +34,6 @@ Formal Responses
 
 [Annotated Bibliography](https://github.com/sjcooper01/wicked_problems/blob/master/Annotated%20Bib.pdf)
 
+[Literature Review](https://github.com/sjcooper01/wicked_problems/blob/master/Assignment%202_%20Literature%20Review.pdf)
+
 
