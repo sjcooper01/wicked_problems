@@ -32,6 +32,8 @@ Informal Responses
 
 [October 21st Response](https://github.com/sjcooper01/wicked_problems/blob/master/October21.md)
 
+[October 28th Response](https://github.com/sjcooper01/wicked_problems/blob/master/10_28%20Essay.pdf)
+
 Formal Responses
 
 [Annotated Bibliography](https://github.com/sjcooper01/wicked_problems/blob/master/Annotated%20Bib.pdf)
