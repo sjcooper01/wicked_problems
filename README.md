@@ -48,4 +48,7 @@ Formal Responses
 
 [Literature Review](https://github.com/sjcooper01/wicked_problems/blob/master/Assignment%202_%20Literature%20Review.pdf)
 
+[Methods Paper](https://github.com/sjcooper01/wicked_problems/blob/master/Assignment%203_%20Methods%20Paper.pdf)
+
+
 
