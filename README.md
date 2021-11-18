@@ -52,5 +52,8 @@ Formal Responses
 
 [Methods Paper](https://github.com/sjcooper01/wicked_problems/blob/master/Assignment%203_%20Methods%20Paper.pdf)
 
+[Abstract](https://github.com/sjcooper01/wicked_problems/blob/master/Assignment%204_%20Abstract.pdf)
+
+
 
 
