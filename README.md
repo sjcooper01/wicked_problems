@@ -54,7 +54,7 @@ Formal Responses
 
 [Abstract](https://github.com/sjcooper01/wicked_problems/blob/master/Assignment%204_%20Abstract.pdf)
 
-[Slides](https://github.com/sjcooper01/wicked_problems/blob/master/Data%20Science%20Assignment%204.pdf)
+
 
 
 
